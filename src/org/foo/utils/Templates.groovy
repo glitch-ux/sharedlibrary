@@ -1,4 +1,4 @@
-package src.org.utils
+package src.org.foo.utils
 
 public void netTemplate(body) {
   podTemplate(
